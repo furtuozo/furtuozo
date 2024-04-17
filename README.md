@@ -1,0 +1,4 @@
+- 🦇 Hi, I’m João Pedro Furtuozo
+- 💻 I’m interested in learn more about java
+- ☕ Studing Java and applications
+- 👨🏻‍💻 I am a computer science student
